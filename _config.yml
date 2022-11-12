@@ -153,5 +153,5 @@ fonts:
 
 # Gallery for screenshot
 
-imagesurl: "/assets/screenshot/"
-thumbsurl: "/assets/screenshot/"
+imagesurl: "assets/screenshot/"
+thumbsurl: "assets/screenshot/"
