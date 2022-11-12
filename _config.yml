@@ -88,6 +88,8 @@ defaults:
       layout: page # Set the default layout for pages
 
 # 7. Site settings
+website: https://andrea055.github.io/
+basewebsite: /nodeMyAdmin.github.io
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "nodeMyAdmin" # Site name or title, also used in jekyll-seo-tag
@@ -153,5 +155,5 @@ fonts:
 
 # Gallery for screenshot
 
-imagesurl: "assets/screenshot/"
-thumbsurl: "assets/screenshot/"
+imagesurl: "/assets/screenshot/"
+thumbsurl: "/assets/screenshot/"
