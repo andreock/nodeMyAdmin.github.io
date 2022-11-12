@@ -88,15 +88,15 @@ defaults:
       layout: page # Set the default layout for pages
 
 # 7. Site settings
-website: https://andrea055.github.io/
+website: https://andrea055.github.io
 basewebsite: /nodeMyAdmin.github.io
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "nodeMyAdmin" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "nodeMyAdmin is an attempt to port phpMyAdmin to Node.JS with the help of SvelteKit" # Site description and default description, also used in jekyll-seo-tag
-url: "https://nodemyadmin.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+url: "https://andrea055.github.io" # Site url, also used in jekyll-seo-tag
+baseurl: "/nodeMyAdmin.github.io"
 repo: "https://github.com/Andrea055/nodeMyAdmin"
 email: "andrecanale05@libero.it"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
