@@ -20,7 +20,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 - Add support for SQL Server
 
-# [Download](/download)
+# [Download](download)
 
-# [Screenshot](/screenshot)
+# [Screenshot](screenshot)
 
