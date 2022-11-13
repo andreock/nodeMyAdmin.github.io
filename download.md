@@ -13,6 +13,17 @@ Unzip the file in a folder, then do
 npm i
 ```
 
+Now, create a file named .env where you need to write the encryption key for your db credentials(nodeMyAdmin don't save password without cryptography).
+
+.env file should contain the following fields:
+
+```dosini
+KEY=""
+IV=""
+```
+
+IV must be of 16 characters while key don't have any requrements.
+
 Now to start nodeMyAdmin server run 
 
 ```bash
