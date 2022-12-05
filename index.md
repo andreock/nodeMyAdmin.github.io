@@ -10,6 +10,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 # Features
 
 - MySQL/MariaDB support
+- MSSQL support
 - Creation of database
 - Creation of tables
 - View records or structure of tables, Add records, Search in tables, Truncate and Drop a table
