@@ -12,6 +12,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 - MySQL/MariaDB support
 - MSSQL support
 - PostgreSQL beta support(Modify record is currently broken and don't change record, Search in table return all records, delete records is broken, Add table don't work)
+- SQLite3 support
 - Creation of database
 - Creation of tables
 - View records or structure of tables, Add records, Search in tables, Truncate and Drop a table
